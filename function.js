@@ -19,6 +19,6 @@ var valueTwo = 5;
 var firstVal = 10;
 
 
-//6. Create a function called subtractNums that subtracts 34 and firstVal
+//6. Create a function called subtractNums that subtracts firstVal from 34
 
 
